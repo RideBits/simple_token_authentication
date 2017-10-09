@@ -17,6 +17,10 @@ test/dummy/.sass-cache
 # rbenv
 vendor/bundle
 
+doc/
+
+.yardoc/
+
 # Appraisal
 gemfiles/*
 !gemfiles/*.gemfile
